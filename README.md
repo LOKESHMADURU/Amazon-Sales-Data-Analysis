@@ -26,6 +26,7 @@ The goal of this project is to analyze Amazon's sales data to gain insights into
 4. **Customer Behavior**:  
    - Members and Non-Members orders are nearly balanced (1002 vs. 998).  
    - Female customers purchased more products in categories like Fashion Accessories and Health & Beauty.
+5. **Day-Wise Sales**: Saturdays see the highest sales activity (328 orders). 
 
 ---
 
