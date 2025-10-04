@@ -33,8 +33,6 @@ The goal of this project is to analyze Amazon's sales data to gain insights into
 ## 📂 Repository Contents
 - **SQL File**: Contains queries used for data preprocessing and extraction.  
   `amazon_sales_data.sql`  
-- **Power BI Dashboard**: Interactive dashboard file for visualizations.  
-  `amazon_sales_analysis.pbix`  
 - **README**: This file explaining the project.
 
 ---
