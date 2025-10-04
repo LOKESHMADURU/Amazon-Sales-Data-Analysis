@@ -26,24 +26,7 @@ The goal of this project is to analyze Amazon's sales data to gain insights into
 4. **Customer Behavior**:  
    - Members and Non-Members orders are nearly balanced (1002 vs. 998).  
    - Female customers purchased more products in categories like Fashion Accessories and Health & Beauty.
-5. **Day-Wise Sales**: Saturdays see the highest sales activity (328 orders). 
-
----
-
-## 🖥️ Dashboard Overview
-### Key Features:
-- **Revenue Trends**: Visualized monthly revenue and top-performing months (e.g., January).  
-- **Branch and Product Insights**: Bar charts showing branch-wise and product line performance.
-- **Customer Analysis**: Gender-based purchase patterns and payment preferences.
-- **Custom Filters**: Dynamic filters for date, customer type, and payment method.
-
-![Screenshot (1)](https://github.com/user-attachments/assets/0cd55cf1-5cae-4c34-9c78-78fa3f21b991)
-
-![Screenshot (2)](https://github.com/user-attachments/assets/1f820c06-00d0-43e3-b1fb-a12d11a44ef2)
-
-![Screenshot (3)](https://github.com/user-attachments/assets/a3954c53-360b-48eb-847f-2c750b807ec4)
-
-![Screenshot (4)](https://github.com/user-attachments/assets/85e3fad0-cd70-4f37-bd8f-47d9e6d46baa)
+5. **Day-Wise Sales**: Saturdays see the highest sales activity (328 orders).
 
 ---
 
