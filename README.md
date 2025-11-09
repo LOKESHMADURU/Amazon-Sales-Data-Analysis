@@ -93,7 +93,7 @@ Amazon-SQL-Project/
 **Lokesh Maduru**  
 🎓 *Aspiring Data Analyst | SQL | Power BI | Excel | Python*  
 📍 Hyderabad, India  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/lokeshmaduru/) *(add your real link here)*  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/lokeshmaduru/) 
 
 ---
 
